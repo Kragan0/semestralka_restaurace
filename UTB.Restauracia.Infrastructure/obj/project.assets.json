@@ -2,20 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "UTB.Restauracia.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "UTB.Restauracia.Domain": "1.0.0",
-          "UTB.Restauracia.Infrastructure": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/UTB.Restauracia.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UTB.Restauracia.Application.dll": {}
-        }
-      },
       "UTB.Restauracia.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -25,44 +11,19 @@
         "runtime": {
           "bin/placeholder/UTB.Restauracia.Domain.dll": {}
         }
-      },
-      "UTB.Restauracia.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "UTB.Restauracia.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/UTB.Restauracia.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UTB.Restauracia.Infrastructure.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "UTB.Restauracia.Application/1.0.0": {
-      "type": "project",
-      "path": "../UTB.Restauracia.Application/UTB.Restauracia.Application.csproj",
-      "msbuildProject": "../UTB.Restauracia.Application/UTB.Restauracia.Application.csproj"
-    },
     "UTB.Restauracia.Domain/1.0.0": {
       "type": "project",
       "path": "../UTB.Restauracia.Domain/UTB.Restauracia.Domain.csproj",
       "msbuildProject": "../UTB.Restauracia.Domain/UTB.Restauracia.Domain.csproj"
-    },
-    "UTB.Restauracia.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../UTB.Restauracia.Infrastructure/UTB.Restauracia.Infrastructure.csproj",
-      "msbuildProject": "../UTB.Restauracia.Infrastructure/UTB.Restauracia.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "UTB.Restauracia.Application >= 1.0.0",
-      "UTB.Restauracia.Domain >= 1.0.0",
-      "UTB.Restauracia.Infrastructure >= 1.0.0"
+      "UTB.Restauracia.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -72,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
-      "projectName": "UTB.RestauraciaWeb",
-      "projectPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
+      "projectUniqueName": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
+      "projectName": "UTB.Restauracia.Infrastructure",
+      "projectPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-      "outputPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb\\obj\\",
+      "outputPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,14 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj": {
-              "projectPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj"
-            },
             "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
               "projectPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj"
-            },
-            "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj": {
-              "projectPath": "C:\\UTB.Restauracia\\UTB.RestauraciaWeb\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj"
             }
           }
         }
@@ -136,9 +91,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
