@@ -28,3 +28,12 @@ C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\refint
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\UTB.RestauraciaWeb.pdb
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\UTB.RestauraciaWeb.genruntimeconfig.cache
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\ref\UTB.RestauraciaWeb.dll
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Application.dll
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Domain.dll
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Infrastructure.dll
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Application.pdb
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Domain.pdb
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\bin\Debug\net8.0\UTB.Restauracia.Infrastructure.pdb
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\UTB.RestauraciaWeb.csproj.AssemblyReference.cache
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\UTB.RestauraciaWeb.sourcelink.json
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.RestauraciaWeb\obj\Debug\net8.0\UTB.Rest.E95E6572.Up2Date

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UTB.Restauracia.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UTB.Restauracia.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UTB.Restauracia.Infrastructure.dll": {}
+        }
+      },
+      "UTB.Restauracia.Domain/1.0.0": {
+        "runtime": {
+          "UTB.Restauracia.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTB.Restauracia.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTB.Restauracia.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
