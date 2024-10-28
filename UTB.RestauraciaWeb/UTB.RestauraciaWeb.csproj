@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\UTB.Restauracia.Application\UTB.Restauracia.Application.csproj" />
     <ProjectReference Include="..\UTB.Restauracia.Domain\UTB.Restauracia.Domain.csproj" />
     <ProjectReference Include="..\UTB.Restauracia.Infrastructure\UTB.Restauracia.Infrastructure.csproj" />

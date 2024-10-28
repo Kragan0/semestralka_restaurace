@@ -14,3 +14,5 @@ C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\obj\Debug\n
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\obj\Debug\net8.0\refint\UTB.Restauracia.Infrastructure.dll
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\obj\Debug\net8.0\UTB.Restauracia.Infrastructure.pdb
 C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\obj\Debug\net8.0\ref\UTB.Restauracia.Infrastructure.dll
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\bin\Debug\net8.0\UTB.Restauracia.Infrastructure.runtimeconfig.json
+C:\UTB.Restauracia\UTB.RestauraciaWeb\UTB.Restauracia.Infrastructure\obj\Debug\net8.0\UTB.Restauracia.Infrastructure.genruntimeconfig.cache

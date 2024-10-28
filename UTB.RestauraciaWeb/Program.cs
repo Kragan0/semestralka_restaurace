@@ -1,4 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using UTB.Restauracia.Infrastructure;
+using UTB.Restauracia.Infrastructure.Database;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+string connectionString = builder.Configuration.GetConnectionString("MySQL");
+ServerVersion serverVersion = new MySqlServerVersion("8.0.40");
+builder.Services.AddDbContext<RestauraciaDbContext>(optionsBuilder => optionsBuilder.UseMySql(connectionString, serverVersion));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

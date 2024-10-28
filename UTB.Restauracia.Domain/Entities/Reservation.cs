@@ -1,25 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UTB.Restauracia.Domain.Entities
 {
+    [Table(nameof(Reservation))]
     public class Reservation
     {
 
-        private int Id {  get; set; }
-        private DateTime time{ get; set; }
-        
+        public int Id {  get; set; }
+        public DateTime Time { get; set; }
+
         // Foreign keys
+        [ForeignKey(nameof(User))]
         public int UserId { get; set; }
+        [ForeignKey(nameof(RestaurantTable))]
         public int TableId { get; set; }
 
         public User User { get; set; }
-        public Table Table { get; set; }
-
-
+        public RestaurantTable RestaurantTable { get; set; }
 
     }
 }
