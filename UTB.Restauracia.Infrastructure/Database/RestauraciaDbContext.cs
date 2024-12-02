@@ -7,7 +7,8 @@ namespace UTB.Restauracia.Infrastructure.Database
 {
     public class RestauraciaDbContext : DbContext
     {
-        public DbSet<MenuItem> MenuItems { get; set; }
+        public DbSet<Menu> Menus { get; set; }
+        public DbSet<Food> Foods { get; set; }
         public DbSet<RestaurantTable> RestaurantTables { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItems> OrderItems { get; set; }
@@ -22,7 +23,7 @@ namespace UTB.Restauracia.Infrastructure.Database
             base.OnModelCreating(modelBuilder);
 
             MenuItemInit menuItemInit = new MenuItemInit();
-            modelBuilder.Entity<MenuItem>().HasData(menuItemInit.GetMenuItems3());
+            modelBuilder.Entity<Food>().HasData(menuItemInit.GetMenuItems3());
             RestaurantTableInit restaurantTableInit = new RestaurantTableInit();
             modelBuilder.Entity<RestaurantTable>().HasData(restaurantTableInit.GetRestaurantTables3());
 

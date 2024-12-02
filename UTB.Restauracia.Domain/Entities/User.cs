@@ -6,7 +6,7 @@ namespace UTB.Restauracia.Domain.Entities
     [Table(nameof(User))]
     public class User
     {
-        public int Id { get; set; }
+        public required int Id { get; set; }
         public required string Username { get; set; }
         public required string FullName { get; set; }
         public required string Password { get; set; }
@@ -17,6 +17,8 @@ namespace UTB.Restauracia.Domain.Entities
         
         public IList<Reservation>? Reservations { get; set; } = null;
         public IList<Order>? Orders { get; set; } = null;
+
+        public IList<Favorites> Favorites { get; set; }
     }
 
 }

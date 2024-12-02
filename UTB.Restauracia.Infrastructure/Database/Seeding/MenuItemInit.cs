@@ -4,11 +4,11 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
 {
     internal class MenuItemInit
     {
-        public IList<MenuItem> GetMenuItems3()
+        public IList<Food> GetMenuItems3()
         {
-            IList<MenuItem> menuItems = new List<MenuItem>();
+            IList<Food> menuItems = new List<Food>();
 
-            menuItems.Add(new MenuItem()
+            menuItems.Add(new Food()
             {
                 Id = 1,
                 Name = "Bolongske Spagheti",
@@ -19,7 +19,7 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
 
             });
 
-            menuItems.Add(new MenuItem()
+            menuItems.Add(new Food()
             {
                 Id = 2,
                 Name = "Pizza Margharita",
@@ -30,7 +30,7 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
 
             });
 
-            menuItems.Add(new MenuItem()
+            menuItems.Add(new Food()
             {
                 Id = 3,
                 Name = "Bryndzové Halušky",

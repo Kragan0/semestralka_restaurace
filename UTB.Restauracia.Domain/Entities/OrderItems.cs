@@ -10,10 +10,10 @@ namespace UTB.Restauracia.Domain.Entities
         
         [ForeignKey(nameof(Order))]
         public int OrderID { get; set; }
-        [ForeignKey(nameof(MenuItem))]
+        [ForeignKey(nameof(Food))]
         public int MenuItemID   { get; set; }
 
-        public required Order Order { get; set; }
-        public required MenuItem MenuItem { get; set; }
+        public required Order order { get; set; }
+        public required Food food { get; set; }
     }
 }

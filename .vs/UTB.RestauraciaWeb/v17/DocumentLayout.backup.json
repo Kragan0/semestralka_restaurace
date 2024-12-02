@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\semestralka_restaurace-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.infrastructure\\database\\restauraciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\restauraciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\areas\\security\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\areas\\security\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\validations\\reservationdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\validations\\reservationdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.infrastructure\\database\\seeding\\menuiteminit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\seeding\\menuiteminit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.infrastructure\\database\\seeding\\userinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\seeding\\userinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\areas\\admin\\views\\restauranttable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\areas\\admin\\views\\restauranttable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.domain\\utb.restauracia.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\utb.restauracia.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.infrastructure\\database\\seeding\\restauranttableinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\seeding\\restauranttableinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\semestralka_restaurace-main\\utb.restauracia.infrastructure\\database\\seeding\\reservationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\seeding\\reservationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\areas\\admin\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\areas\\admin\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\semestralka_restaurace-main\\utb.restauraciaweb\\utb.restauraciaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\utb.restauraciaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationDateValidation.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:21:16.857Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Favorites.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Favorites.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Favorites.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Favorites.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Favorites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:22:16.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Menu.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Menu.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:09:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantTable.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\RestaurantTable.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\RestaurantTable.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\RestaurantTable.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\RestaurantTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:28:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:18:33.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:27:28.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:28:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\OrderItems.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\OrderItems.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\OrderItems.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:20:07.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:11:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestauraciaDbContext.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:07:35.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Security\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Areas\\Security\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Security\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Areas\\Security\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:14:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T18:41:32.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UTB.Restauracia.Domain.csproj",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T07:42:20.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestaurantTableInit.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\RestaurantTableInit.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\RestaurantTableInit.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\RestaurantTableInit.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\RestaurantTableInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:04:13.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInit.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\UserInit.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\UserInit.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\UserInit.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\UserInit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:02:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuItemInit.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\MenuItemInit.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\MenuItemInit.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\MenuItemInit.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\MenuItemInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:44:18.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T07:53:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T18:41:01.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Program.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Program.cs",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:34:29.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:56:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationInit.cs",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\ReservationInit.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\ReservationInit.cs",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.Restauracia.Infrastructure\\Database\\Seeding\\ReservationInit.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\Seeding\\ReservationInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:02:56.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T01:54:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UTB.RestauraciaWeb.csproj",
+              "DocumentMoniker": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
+              "ToolTip": "C:\\semestralka_restaurace-main\\UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:34:11.061Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
