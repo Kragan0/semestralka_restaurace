@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UTB.RestauraciaWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/UTB.RestauraciaWeb.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-sm sticky-top bg-dark navbar-dark ">
+        <div>
+            <a class="navbar-brand logo" href="#home">
+                <img src="~/images/LogoUtb.png" width="100px" height="100px" alt="">
+            </a>
+        </div>
+        <div class="container-fluid ">
+            <span class="nav-links-margin">
+                <ul class="navbar-nav nav-links">
+                    <li class="nav-item "><a class="nav-link" href="#home">Domov</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">O nás</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#service">Menu</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Registrovať sa</a></li>
+
+                    <li class="nav-item"><a class="nav-link" href="#contact">Prihlasiť sa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">EN/SK</a></li>
+                </ul>
+            </span>
+        </div>
+
+    </nav>
+
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="custom-footer bg-dark">
+        <div class="container">
+            &copy; 2024 - UTB.RestauraciaWeb - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

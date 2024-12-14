@@ -1,0 +1,136 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #dbdddf;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.section_anchor {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+.navbar {
+    padding: 0 !important;
+    height: 6rem;
+    border-bottom: 1px solid rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+}
+
+.container-fluid {
+    height: 100%;
+    display: flex !important;
+    justify-content: flex-end !important;
+    padding: 0 !important;
+}
+
+.nav-links-margin {
+    height: 100%;
+    margin-left: 5rem;
+}
+
+.nav-links {
+    height: 100%;
+}
+
+.nav-item {
+    height: 100%;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-link {
+    height: 100%;
+    padding-left: 3rem !important; /*na zbavenie gapu, jediny sposob ktory mi napadol*/
+    padding-right: 3rem !important;
+    display: flex !important;
+    align-items: center;
+}
+
+.nav-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#title-img {
+    min-width: 100%;
+    max-height: 800px;
+}
+
+
+.logo {
+    padding-left: 3rem;
+}
+
+
+.box {
+    width: 100%;
+    height: 75px;
+    background-color: brown;
+}
+
+.custom-footer {
+    background-color: #f8f9fa; /* Optional: Background color */
+    text-align: center;
+    padding: 1.5rem 0; /* Add padding for spacing */
+    border-top: 1px solid #ddd; /* Optional: Add a border for better separation */
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    color: #ced4da;
+}
+/* Starter Page */
+.home-site-bg {
+    background-image: url('/images/start-page.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+}
+
+.home-site-img {
+    
+    width: 150px;
+    height: 150px;
+}
+.images-container-size {
+    width: 650px !important;
+}
+
+#about {
+    width: 30rem;
+    height: 200px;
+}
+.small-header-align {
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.highlight-text {
+    color: white;
+    text-shadow: 2px 2px 0 black, /* Bottom-right */
+    -2px 2px 0 black, /* Bottom-left */
+    2px -2px 0 black, /* Top-right */
+    -2px -2px 0 black; /* Top-left */
+}
