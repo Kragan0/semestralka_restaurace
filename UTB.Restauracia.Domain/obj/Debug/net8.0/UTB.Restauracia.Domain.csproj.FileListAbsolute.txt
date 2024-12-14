@@ -43,3 +43,15 @@ C:\Users\alexg\OneDrive\semestralka_restaurace-master\UTB.Restauracia.Domain\obj
 C:\Users\alexg\OneDrive\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\refint\UTB.Restauracia.Domain.dll
 C:\Users\alexg\OneDrive\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.pdb
 C:\Users\alexg\OneDrive\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\ref\UTB.Restauracia.Domain.dll
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\bin\Debug\net8.0\UTB.Restauracia.Domain.deps.json
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\bin\Debug\net8.0\UTB.Restauracia.Domain.dll
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\bin\Debug\net8.0\UTB.Restauracia.Domain.pdb
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.AssemblyInfoInputs.cache
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.AssemblyInfo.cs
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.csproj.CoreCompileInputs.cache
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.sourcelink.json
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.dll
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\refint\UTB.Restauracia.Domain.dll
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\UTB.Restauracia.Domain.pdb
+C:\UTB.Restauracia\semestralka_restaurace-master\UTB.Restauracia.Domain\obj\Debug\net8.0\ref\UTB.Restauracia.Domain.dll
