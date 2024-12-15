@@ -7,16 +7,16 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
         public IList<Food> GetMenuItems3()
         {
             // Get the initialized Menu object
-            var menuInit = new MenuInit();
-            var menus = menuInit.GetMenus3();
+            var foodInit = new MenuInit();
+            var menus = foodInit.GetMenus3();
 
             // Assuming you want to use the first menu
             var menu = menus.First();
 
 
-            IList<Food> menuItems = new List<Food>();
+            IList<Food> foods = new List<Food>();
 
-            menuItems.Add(new Food()
+            foods.Add(new Food()
             {
                 Id = 1,
                 Name = "Bolongske Spagheti",
@@ -29,7 +29,7 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Menu = menu
             });
 
-            menuItems.Add(new Food()
+            foods.Add(new Food()
             {
                 Id = 2,
                 Name = "Pizza Margharita",
@@ -43,7 +43,7 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
 
             });
 
-            menuItems.Add(new Food()
+            foods.Add(new Food()
             {
                 Id = 3,
                 Name = "Bryndzové Halušky",
@@ -56,9 +56,9 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Menu = menu
 
             });
-            menu.Foods = menuItems;
+            menu.Foods = foods;
 
-            return menuItems;
+            return foods;
         }
     }
 }

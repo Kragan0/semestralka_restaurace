@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\areas\\admin\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\areas\\admin\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3216F2C4-3D3C-4E29-804F-67CC17F989A8}|UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauracia.application\\implementation\\foodappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3216F2C4-3D3C-4E29-804F-67CC17F989A8}|UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj|solutionrelative:utb.restauracia.application\\implementation\\foodappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauraciaweb\\areas\\admin\\views\\restauranttable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC1616D-B373-41C7-8D5F-43F0F96755B9}|UTB.RestauraciaWeb\\UTB.RestauraciaWeb.csproj|solutionrelative:utb.restauraciaweb\\areas\\admin\\views\\restauranttable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3216F2C4-3D3C-4E29-804F-67CC17F989A8}|UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauracia.application\\abstraction\\ifoodappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3216F2C4-3D3C-4E29-804F-67CC17F989A8}|UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj|solutionrelative:utb.restauracia.application\\abstraction\\ifoodappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauracia.domain\\validations\\reservationdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\validations\\reservationdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauracia.domain\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB287EC-4436-4817-9DBF-63EDA39AA0D4}|UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj|solutionrelative:utb.restauracia.domain\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|c:\\utb.restauracia\\semestralka_restaurace-master\\utb.restauracia.infrastructure\\database\\restauraciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33CAB5F-8DBA-4D42-8D82-B6E82622C5B8}|UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj|solutionrelative:utb.restauracia.infrastructure\\database\\restauraciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UTB.RestauraciaWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T17:09:46.784Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Program.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Program.cs",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:27:54.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "UTB.RestauraciaWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T16:37:35.147Z"
+              "DocumentIndex": 1,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "UTB.RestauraciaWeb\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:24:01.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-09T17:28:42.581Z"
+              "DocumentIndex": 6,
+              "Title": "RestauraciaDbContext.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "RelativeToolTip": "UTB.Restauracia.Infrastructure\\Database\\RestauraciaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:21:20.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationDateValidation.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Validations\\ReservationDateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:18:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "RelativeToolTip": "UTB.Restauracia.Domain\\Entities\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:18:15.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodAppService.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\Implementation\\FoodAppService.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Application\\Implementation\\FoodAppService.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\Implementation\\FoodAppService.cs",
+              "RelativeToolTip": "UTB.Restauracia.Application\\Implementation\\FoodAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:12:44.213Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
-              "RelativeDocumentMoniker": "UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
-              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
-              "RelativeToolTip": "UTB.RestauraciaWeb\\Areas\\Admin\\Views\\RestaurantTable\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T07:53:02.921Z"
+              "Title": "IFoodAppService.cs",
+              "DocumentMoniker": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\Abstraction\\IFoodAppService.cs",
+              "RelativeDocumentMoniker": "UTB.Restauracia.Application\\Abstraction\\IFoodAppService.cs",
+              "ToolTip": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\Abstraction\\IFoodAppService.cs",
+              "RelativeToolTip": "UTB.Restauracia.Application\\Abstraction\\IFoodAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:12:23.409Z"
             }
           ]
         }

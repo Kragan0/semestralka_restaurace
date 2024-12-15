@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTB.RestauraciaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f88d2d94bc9758ced5d108cf438bc6185bc91254")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5b388626b0f735b498989a641aefca6a88714e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTB.RestauraciaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTB.RestauraciaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

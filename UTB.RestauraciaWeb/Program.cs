@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using UTB.Restauracia.Infrastructure;
 using UTB.Restauracia.Infrastructure.Database;
+using UTB.Restauracia.Application.Abstraction;
+using UTB.Restauracia.Application.Implementation;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,9 @@ builder.Services.AddDbContext<RestauraciaDbContext>(optionsBuilder => optionsBui
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddScoped<IFoodAppService, FoodAppService>();
 
 var app = builder.Build();
 
@@ -25,6 +29,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
