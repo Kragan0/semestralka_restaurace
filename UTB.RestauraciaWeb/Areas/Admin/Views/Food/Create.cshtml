@@ -1,0 +1,49 @@
+﻿@model FoodViewModel
+
+@{
+    ViewData["Title"] = "Food - Create";
+}
+<h1>@ViewData["Title"]</h1>
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="food.Name"></label>
+        <input class="form-control" asp-for="food.Name">
+        <span asp-validation-for="food.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="food.Description"></label>
+        <input class="form-control" asp-for="food.Description">
+        <span asp-validation-for="food.Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="food.Price"></label>
+        <input class="form-control" asp-for="food.Price">
+        <span asp-validation-for="food.Price" class="text-danger"></span>
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="food.Icon">Image Source</label>
+        <input class="form-control" asp-for="food.Icon">
+        <span asp-validation-for="food.Icon" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="food.MenuId">@nameof(Food.MenuId)</label>
+        <select class="form-control" asp-for="food.MenuId">
+            <option value="">Select menu</option>
+            @foreach (var menu in Model.menus)
+            {
+                <option value="@menu.Id">@menu.Name</option>
+            }
+        </select>
+        <span asp-validation-for="food.MenuId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

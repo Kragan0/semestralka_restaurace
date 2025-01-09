@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTB.Restauracia.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5b388626b0f735b498989a641aefca6a88714e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f650397e21c72fe8c9a19c337ce558581776b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTB.Restauracia.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTB.Restauracia.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

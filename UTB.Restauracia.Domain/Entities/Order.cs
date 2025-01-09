@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UTB.Restauracia.Domain.Entities
 {
     [Table(nameof(Order))]
     public class Order
     {
+        [Required]
         public int Id { get; set; }
         public DateTime OrderDate { get; set; }
         // Dine-in alebo Delivery
@@ -14,11 +16,11 @@ namespace UTB.Restauracia.Domain.Entities
         // Ak budeme robit donasku
         public string? DeliveryAddress {get; set;}
 
-        [ForeignKey(nameof(User))]
+        [ForeignKey(nameof(CustomerUser))]
         public int UsertId { get; set; }
         
-        public required User User { get; set; }
-        public required IList<OrderItems> OrderItems { get; set; } 
+        public required CustomerUser? CustomerUser { get; set; }
+        public required IList<OrderItems>? OrderItems { get; set; } 
     
     }
 }

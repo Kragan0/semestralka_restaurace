@@ -25,8 +25,8 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Price = 120.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+               
             });
 
             foods.Add(new Food()
@@ -38,8 +38,8 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Price = 180.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+              
 
             });
 
@@ -52,8 +52,8 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Price = 240.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+              
 
             });
             menu.Foods = foods;

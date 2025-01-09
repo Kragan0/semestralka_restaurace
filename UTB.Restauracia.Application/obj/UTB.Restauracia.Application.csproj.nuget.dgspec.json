@@ -1,42 +1,45 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj": {}
+    "C:\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj": {}
   },
   "projects": {
-    "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj": {
+    "C:\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj",
+        "projectUniqueName": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj",
         "projectName": "UTB.Restauracia.Application",
-        "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj",
+        "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Application\\UTB.Restauracia.Application.csproj",
         "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-        "outputPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Application\\obj\\",
+        "outputPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
-                "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj"
+              "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
+                "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj"
               },
-              "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj": {
-                "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj"
+              "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj": {
+                "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj"
               }
             }
           }
@@ -50,12 +53,21 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -72,32 +84,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
+    "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+        "projectUniqueName": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
         "projectName": "UTB.Restauracia.Domain",
-        "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
+        "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj",
         "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-        "outputPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\obj\\",
+        "outputPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,8 +130,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -137,40 +151,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj": {
+    "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
         "projectName": "UTB.Restauracia.Infrastructure",
-        "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
+        "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\UTB.Restauracia.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-        "outputPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\obj\\",
+        "outputPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
-                "projectPath": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj"
+              "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj": {
+                "projectPath": "C:\\semestralka_restaurace-master\\UTB.Restauracia.Domain\\UTB.Restauracia.Domain.csproj"
               }
             }
           }
@@ -184,13 +201,16 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -222,7 +242,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

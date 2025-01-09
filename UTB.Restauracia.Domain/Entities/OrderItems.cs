@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UTB.Restauracia.Domain.Entities
 {
     [Table(nameof(OrderItems))]
     public class OrderItems
     {
+        [Required]
         public int Id { get; set; }
         // Foreign keys 
         
@@ -13,7 +15,7 @@ namespace UTB.Restauracia.Domain.Entities
         [ForeignKey(nameof(Food))]
         public int MenuItemID   { get; set; }
 
-        public required Order order { get; set; }
-        public required Food food { get; set; }
+        public required Order? order { get; set; }
+        public required Food? food { get; set; }
     }
 }

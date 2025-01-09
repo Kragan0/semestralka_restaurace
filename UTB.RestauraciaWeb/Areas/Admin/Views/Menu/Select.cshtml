@@ -1,0 +1,33 @@
+﻿@model IList<Menu>
+@{
+    ViewData["Title"] = "Menu Administration";
+}
+<h1>@ViewData["Title"]</h1>
+
+<a class="btn btn-primary" role="button" asp-action="Create">Create Food</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@nameof(Menu.Id)</th>
+            <th>@nameof(Menu.Name)</th>
+            <th>Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Menu menu in Model)
+        {
+
+            <tr>
+                <th>@menu.Id</th>
+                <th>@menu.Name</th>
+                <td><a class="btn btn-primary" role="button" asp-action="Delete" asp-route-id="@menu.Id" onclick="return ConfirmDelete();">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts
+{
+    <script src="~/js/dialogs.js"></script>
+}

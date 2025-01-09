@@ -107,6 +107,11 @@ body {
     background-repeat: no-repeat;
     height: 70vh;
     width: 100%;
+    border-bottom: 2px solid grey;
+}
+.home-site-gap {
+    height: 30vh;
+    width: 100%;
 }
 
 .home-site-img {
@@ -116,11 +121,11 @@ body {
 }
 .images-container-size {
     width: 650px !important;
+    border-bottom: 2px solid grey;
 }
 
 #about {
-    width: 30rem;
-    height: 200px;
+    width: 45rem;
 }
 .small-header-align {
     padding-left: 0.5rem;
