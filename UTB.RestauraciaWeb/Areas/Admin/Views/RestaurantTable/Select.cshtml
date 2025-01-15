@@ -1,0 +1,36 @@
+﻿@model IList<RestaurantTable>
+@{
+    ViewData["Title"] = "Restaurant Tables Administration";
+}
+<h1>@ViewData["Title"]</h1>
+
+<a class="btn btn-primary" role="button" asp-action="Create">Create Table</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@nameof(RestaurantTable.Id)</th>
+            <th>@nameof(RestaurantTable.TableNumber)</th>
+            <th>@nameof(RestaurantTable.SeatCapacity)</th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (RestaurantTable restaurantTable in Model)
+        {
+
+            <tr>
+                <th>@restaurantTable.Id</th>
+                <th>@restaurantTable.TableNumber</th>
+                <th>@restaurantTable.SeatCapacity</th>
+                <td><a class="btn btn-primary" role="button" asp-action="Delete" asp-route-id="@restaurantTable.Id" onclick="return ConfirmDelete();">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts
+{
+    <script src="~/js/dialogs.js"></script>
+}

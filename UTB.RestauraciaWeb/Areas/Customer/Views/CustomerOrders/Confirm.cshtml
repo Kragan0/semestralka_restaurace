@@ -1,0 +1,14 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "Confirm";
+}
+
+
+<form asp-area="Customer" asp-controller="CustomerOrderCart" asp-action="ApproveOrderInSession" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="DeliveryAddress"></label>
+        <input class="form-control" asp-for="DeliveryAddress">
+        <span asp-validation-for="DeliveryAddress" class="text-danger"></span>
+    </div>
+</form>

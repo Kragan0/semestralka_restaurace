@@ -1,0 +1,109 @@
+﻿@model MenuViewModel
+
+@{
+    ViewData["Title"] = "Menu Page";
+}
+@if (User.Identity.IsAuthenticated == true && (User.IsInRole(nameof(Roles.Customer))))
+{
+    <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+        <div class="container-fluid">
+            <!--  <a class="navbar-brand" asp-area="Customer" asp-controller="CustomerFavorites" asp-action="Index" >Favorites</a>-->
+            <a class="text-dark" asp-area="Customer" asp-controller="CustomerOrderCart" asp-action="ApproveOrderInSession">Approve Current Order</a>
+            <div class="d-flex">
+                
+                <button class="btn btn-success me-2" id="cartButton">
+                    @{
+                        double totalPrice = 0;
+                        string totalPriceString = CustomerOrderCartController.totalPriceString;
+                        if (Context.Session != null && Context.Session.IsAvailable && Context.Session.Keys.Contains(totalPriceString))
+                        {
+                            totalPrice = Context.Session.GetDouble(totalPriceString).GetValueOrDefault();
+                        }
+                        <img src="/images/cart.svg" alt="Cart" width="20" height="20" style="vertical-align: middle; margin-right: 5px;">
+                        <span id="total_price"> @totalPrice.ToString("C2") </span>
+                    }
+
+                </button>
+            </div>
+        </div>
+
+    </nav>
+    <!--
+    <form asp-area="Customer" asp-controller="CustomerOrderCart" asp-action="ApproveOrderInSession" method="post">
+        <input type="text" name="adress" class="form-control" placeholder="adresa" />
+    </form>
+    -->
+}
+
+<div class="container mt-5">
+
+    @if (Model != null && Model.Menus != null && Model.Menus.Count > 0)
+    {
+
+
+
+
+        foreach (var menu in Model.Menus)
+        {
+            <section class="menu-section">
+                <h2>@menu.Name</h2>
+                @{
+                    var foods = Model.Foods?.Where(f => f.MenuId == menu.Id).ToList();
+                }
+                @if (foods != null && foods.Count > 0)
+                {
+                    <div class="row">
+                        @foreach (var food in foods)
+                        {
+                            <div class="col-md-4 mb-4">
+                                <div class="card h-100">
+                                    <!-- Food image -->
+                                    <img class="card-img-top" src="@food.ImageSrc" alt="@food.Name" />
+                                    <div class="card-body">
+                                        <!-- Food details -->
+                                        <h5 class="card-title">@food.Name</h5>
+                                        <p class="card-text">@food.Description</p>
+                                        <p class="card-text text-success fw-bold">@food.Price CZK</p>
+                                    </div>
+                                    <div class="card-footer">
+                                        @if (User.Identity.IsAuthenticated == true && (User.IsInRole(nameof(Roles.Customer))))
+                                        {
+                                            <a class="btn btn-outline-dark mt-auto"
+                                            onclick="Buy(@food.Id,
+                                                                '@Url.Action(nameof(CustomerOrderCartController.AddOrderItemsToSession),
+                                                                 nameof(CustomerOrderCartController).Replace(nameof(Controller), String.Empty), new { Area = nameof(UTB.RestauraciaWeb.Areas.Customer) })',
+                                                                '#total_price',
+                                                                '@System.Globalization.CultureInfo.CurrentCulture.Name')">Add to my cart</a>
+                                           // <a class="btn btn-primary" role="button" asp-area="Customer" asp-controller="CustomerFavorites" asp-action="AddFavorite" asp-route-id="@ViewContext.HttpContext.Request.Query["foodId"]">Add to favorites</a>
+                                        }
+                                        else
+                                        {
+                                            <a class="btn btn-outline-dark mt-auto"
+                                               asp-area="Security" asp-controller="Account" asp-action="Login">Add to my cart</a>
+                                            //<a class="btn btn-primary" role="button" asp-area="Security" asp-controller="Account" asp-action="Login">Add to favorites</a>
+
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        }
+                    </div>
+                }
+            </section>
+        }
+
+    }
+
+</div>
+
+
+<link rel="stylesheet" href="~/css/menu.css" asp-append-version="true" />
+
+
+@section Scripts
+{
+    <environment include="Development">
+        <script src="~/js/food.js"></script>
+    </environment>
+}

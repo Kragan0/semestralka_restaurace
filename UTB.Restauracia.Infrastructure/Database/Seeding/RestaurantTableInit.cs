@@ -13,7 +13,6 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 1,
                 TableNumber = 1,
                 SeatCapacity = 4,
-                IsAvailable = true,
                 Reservations = null
 
             });
@@ -23,7 +22,6 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 2,
                 TableNumber = 2,
                 SeatCapacity = 2,
-                IsAvailable = true,
                 Reservations = null
             });
 
@@ -32,7 +30,6 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 3,
                 TableNumber = 3,
                 SeatCapacity = 4,
-                IsAvailable = true,
                 Reservations = null
             });
 

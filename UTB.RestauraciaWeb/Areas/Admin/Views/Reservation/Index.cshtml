@@ -1,0 +1,35 @@
+﻿@model IList<Reservation>
+@{
+    ViewData["Title"] = "Reservation Administration";
+}
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@nameof(Reservation.Id)</th>
+            <th>@nameof(Reservation.Time)</th>
+            <th>@nameof(Reservation.NumberOfGuests)</th>
+            <th>@nameof(Reservation.SpecialRequest)</th>
+            <th>@nameof(Reservation.TableId)</th>
+            <th>@nameof(Reservation.User.UserName)</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Reservation reservation in Model)
+        {
+
+            <tr>
+                <th>@reservation.Id</th>
+                <th>@reservation.Time</th>
+                <th>@reservation.NumberOfGuests</th>
+                <th>@reservation.SpecialRequest</th>
+                <th>@reservation.TableId</th>
+                <th>@reservation.User.UserName</th>
+
+                <td><a class="btn btn-primary" role="button" asp-action="Delete" asp-route-id="@reservation.Id" onclick="return ConfirmDelete();">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

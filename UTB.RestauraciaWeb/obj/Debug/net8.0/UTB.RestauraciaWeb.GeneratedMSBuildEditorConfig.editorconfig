@@ -17,57 +17,137 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UTB.RestauraciaWeb
 build_property.RootNamespace = UTB.RestauraciaWeb
-build_property.ProjectDir = C:\UTB.Restauracia\semestralka_restaurace-master\UTB.RestauraciaWeb\
+build_property.ProjectDir = C:\semestralka_restaurace-master\UTB.RestauraciaWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\UTB.Restauracia\semestralka_restaurace-master\UTB.RestauraciaWeb
+build_property.MSBuildProjectDirectory = C:\semestralka_restaurace-master\UTB.RestauraciaWeb
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Food/Select.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Food/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Food/Select.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxTZWxlY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/RestaurantTable/Create.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Menu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Menu/Select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudVxTZWxlY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/OrderItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJJdGVtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/OrderItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJJdGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/RestaurantTable/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzdGF1cmFudFRhYmxlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/RestaurantTable/Select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzdGF1cmFudFRhYmxlXFNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Home/Index.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/CustomerFavorites/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3VzdG9tZXJGYXZvcml0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/CustomerOrders/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3VzdG9tZXJPcmRlcnNcQ29uZmlybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/CustomerOrders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3VzdG9tZXJPcmRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/CustomerReservation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3VzdG9tZXJSZXNlcnZhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/CustomerReservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcQ3VzdG9tZXJSZXNlcnZhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Security/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlcVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Security/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlcVmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Security/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Areas/Security/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VjdXJpdHlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Home/Privacy.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/Error.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/_ViewImports.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/_ViewStart.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/UTB.Restauracia/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/_Layout.cshtml]
+[C:/semestralka_restaurace-master/UTB.RestauraciaWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zoic6su8ak

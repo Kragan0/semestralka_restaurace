@@ -21,12 +21,12 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 1,
                 Name = "Bolongske Spagheti",
                 Description = "Rezance s kečupom",
-                Icon = "...",
+                ImageSrc = "/img/food/spageti.jpg",
                 Price = 120.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+               
             });
 
             foods.Add(new Food()
@@ -34,12 +34,12 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 2,
                 Name = "Pizza Margharita",
                 Description = "Syrová pizza",
-                Icon = "...",
+                ImageSrc = "/img/food/pizza-marg.jpeg",
                 Price = 180.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+              
 
             });
 
@@ -48,12 +48,12 @@ namespace UTB.Restauracia.Infrastructure.Database.Seeding
                 Id = 3,
                 Name = "Bryndzové Halušky",
                 Description = "Pravda, chvíľu treba žut, ale chutia príjemne",
-                Icon = "...",
+                ImageSrc = "/img/food/halusky.jpg",
                 Price = 240.00,
                 OrderItems = null,
                 Favorites = null,
-                MenuId = menu.Id,
-                Menu = menu
+                MenuId = menu.Id
+              
 
             });
             menu.Foods = foods;

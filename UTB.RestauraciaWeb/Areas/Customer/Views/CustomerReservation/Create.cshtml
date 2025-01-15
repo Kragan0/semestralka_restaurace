@@ -1,0 +1,52 @@
+﻿@model ReservationViewModel
+@{
+    ViewData["Title"] = "Reservation - Create";
+}
+
+
+<div class="background-container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-secondary bg-opacity-75">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-action="Index">View Reservations</a>
+            <div class="d-flex">
+            </div>
+        </div>
+    </nav>
+    <div class="form-container">
+        <div class="form-box">
+
+            <form asp-action="Create" method="post">
+                <!-- Hidden field to persist repair.CarId -->
+                
+                <div class="mb-3">
+                    <label class="form-label" asp-for="reservation.Time"></label>
+                    <input class="form-control" asp-for="reservation.Time">
+                    <span asp-validation-for="reservation.Time" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="reservation.NumberOfGuests"></label>
+                    <input class="form-control" asp-for="reservation.NumberOfGuests">
+                    <span asp-validation-for="reservation.NumberOfGuests" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="reservation.SpecialRequest"></label>
+                    <input class="form-control" asp-for="reservation.SpecialRequest">
+                    <span asp-validation-for="reservation.SpecialRequest" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" asp-for="reservation.TableId">@nameof(Reservation.TableId)</label>
+                    <select class="form-control" asp-for="reservation.TableId">
+                        <option value="">Select table</option>
+                        @foreach (RestaurantTable res in Model.restaurantTables)
+                        {
+                            <option value="@res.Id">@res.TableNumber</option>
+                        }
+                    </select>
+                    <span asp-validation-for="reservation.TableId" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+<link rel="stylesheet" href="~/css/reservation.css" asp-append-version="true" />

@@ -1,6 +1,27 @@
-﻿@model UTB.Restauracia.Domain.Entities.RestaurantTable
-
-
+﻿@model RestaurantTable
 @{
     ViewData["Title"] = "RestaurantTable - Create";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="TableNumber"></label>
+        <input class="form-control" asp-for="TableNumber">
+        <span asp-validation-for="TableNumber" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="SeatCapacity"></label>
+        <input class="form-control" asp-for="SeatCapacity">
+        <span asp-validation-for="SeatCapacity" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>>
+
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Validation/FileContentValidation.js"></script>
 }

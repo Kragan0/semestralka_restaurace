@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ze6IShG/oyiIZYnK57bIf4jQxIChOi1mhm06jx1e6LA=",
+  "Hash": "up/SpDEfLdse8Kf5c65Q1lFComIdEDNxMv2BgmfAjaI=",
   "Source": "UTB.RestauraciaWeb",
   "BasePath": "_content/UTB.RestauraciaWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UTB.RestauraciaWeb\\wwwroot",
       "Source": "UTB.RestauraciaWeb",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "UTB.RestauraciaWeb#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "AlPUwxLwoGQHqGba2/WIHMGgoVQLb1768G0Qbgf4IfI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css"
+      "OriginalItemSpec": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "UTB.RestauraciaWeb#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,76 @@
       "Integrity": "AlPUwxLwoGQHqGba2/WIHMGgoVQLb1768G0Qbgf4IfI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\login.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brxu74cncu",
+      "Integrity": "Z300a79AL4QMrRrCA0vbn3DqyGzgvG6h9sPpat1+MAk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\menu.css",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "css/menu#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uonpcsdof8",
+      "Integrity": "LpAoRSm/cuMEZeABgt1TI6ANL94NzvUSWXKZLGKDGSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\menu.css"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\reservation.css",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "css/reservation#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk38q6xosq",
+      "Integrity": "IwY7CE1MSwZrftQzZ7EXlp75rAEZRjcZpg1feSM3zUU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\reservation.css"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hlojqkgm52",
-      "Integrity": "u1KbprgayKfsIKnt9dWJPHsudSzN4FBEYnUm0iIXSok=",
+      "Fingerprint": "mn5knpe5ja",
+      "Integrity": "XgvFayxRXP6Jd1BeyyMGL02iWy24ACH7ZR8Jp0hk5P4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,12 +164,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\halusky.jpg",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\cart.svg",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
-      "RelativePath": "images/halusky#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/cart#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,17 +178,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2cqilxhtg6",
-      "Integrity": "0v7r69l27pJ39qXnOPwUHH+FLMLTVbzHIaqaciIaoE0=",
+      "Fingerprint": "hskky72jji",
+      "Integrity": "v5tHDcMf5ui0IBXG2MGlIITEoV2IdwVDbdgr/bgqi9U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\halusky.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\cart.svg"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\chef.jpg",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "images/chef#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kide2oflw0",
+      "Integrity": "7A06hewtaWwTIqCvgrhguMdWVTnaLyTVXjBqgJmpKP8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chef.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "images/LogoUtb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +227,31 @@
       "OriginalItemSpec": "wwwroot\\images\\LogoUtb.png"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\reservation-bg.jpg",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "images/reservation-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dva9z367ol",
+      "Integrity": "t1Eez0d6JeCMjlrvdGzKKDcenbCihDGmQFFHL0bzzuA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\reservation-bg.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "images/start-page#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\start-page.jpg"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "images/test-bg-image#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +290,199 @@
       "OriginalItemSpec": "wwwroot\\images\\test-bg-image.jpg"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\55pipppu.3gv.jpg",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/55pipppu.3gv#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nbaq82p0u",
+      "Integrity": "cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\55pipppu.3gv.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\halusky.jpg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/halusky#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y6cg7zv42",
+      "Integrity": "KSpCJAFcnsQ7AmlwK5sTbKyVmaRgs2y8mJuEtwOvY2M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\halusky.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\pizza-marg.jpeg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/pizza-marg#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yrht7oreem",
+      "Integrity": "PvZbwNB9pfg+9CNHlJuj/D7baY/pFLKDcCxpe42ffw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\pizza-marg.jpeg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\s0egbmtc.bs2.jpg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/s0egbmtc.bs2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nbaq82p0u",
+      "Integrity": "cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\s0egbmtc.bs2.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\spageti.jpg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/spageti#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hd947z5o91",
+      "Integrity": "dSvZNkcopVcMOoNHQqu8WA8pUBc1JxOHU/DN3bKZIn0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\spageti.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\tzykqooj.yi4.jpg",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "img/food/tzykqooj.yi4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vhwsbxo5ni",
+      "Integrity": "g2LtJ12Lfa5RBz59tiSa9INKMD0xOGwMfx2O2AjKOkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\food\\tzykqooj.yi4.jpg"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\dialogs.js",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "js/dialogs#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "np8hlmmwy8",
+      "Integrity": "W/NFsHuQY8tm2N82m7A6IP0h+/+/6cV/1dVlApi9TBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dialogs.js"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\food.js",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "js/food#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o6t6ppz1c6",
+      "Integrity": "wPk+djdkgO6VJpwWWoUQcDAvAhoYwg3VylMT6sa/N/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\food.js"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\jquery.validation.decimalseparator.js",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "js/jquery.validation.decimalseparator#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0x7r9oorlz",
+      "Integrity": "LFaLcWILm/KyFHGM5TmZ2S4r0knI4JZaWasqDvf+1y4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.validation.decimalseparator.js"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +500,52 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\FileContentValidation.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "js/validations/FileContentValidation#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h3h5fmp16d",
+      "Integrity": "zTxv6NpUDXJRJ+/i9qUOVgTNiLx4gkr4IO1zM20jskE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\validations\\FileContentValidation.js"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\ReservatioValidation.js",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "BasePath": "_content/UTB.RestauraciaWeb",
+      "RelativePath": "js/validations/ReservatioValidation#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\validations\\ReservatioValidation.js"
+    },
+    {
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "UTB.RestauraciaWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1151,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1235,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1340,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "UTB.RestauraciaWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
+      "ContentRoot": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\",
       "BasePath": "_content/UTB.RestauraciaWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1405,8 +1741,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+      "Route": "css/login.brxu74cncu.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1415,7 +1751,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2392"
+          "Value": "2709"
         },
         {
           "Name": "Content-Type",
@@ -1423,48 +1759,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u1KbprgayKfsIKnt9dWJPHsudSzN4FBEYnUm0iIXSok=\""
+          "Value": "\"Z300a79AL4QMrRrCA0vbn3DqyGzgvG6h9sPpat1+MAk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 22:58:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u1KbprgayKfsIKnt9dWJPHsudSzN4FBEYnUm0iIXSok="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.hlojqkgm52.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2392"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u1KbprgayKfsIKnt9dWJPHsudSzN4FBEYnUm0iIXSok=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 22:58:51 GMT"
+          "Value": "Mon, 16 Dec 2024 20:35:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1474,7 +1773,290 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hlojqkgm52"
+          "Value": "brxu74cncu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z300a79AL4QMrRrCA0vbn3DqyGzgvG6h9sPpat1+MAk="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z300a79AL4QMrRrCA0vbn3DqyGzgvG6h9sPpat1+MAk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 20:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z300a79AL4QMrRrCA0vbn3DqyGzgvG6h9sPpat1+MAk="
+        }
+      ]
+    },
+    {
+      "Route": "css/menu.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\menu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LpAoRSm/cuMEZeABgt1TI6ANL94NzvUSWXKZLGKDGSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 22:58:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LpAoRSm/cuMEZeABgt1TI6ANL94NzvUSWXKZLGKDGSI="
+        }
+      ]
+    },
+    {
+      "Route": "css/menu.uonpcsdof8.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\menu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LpAoRSm/cuMEZeABgt1TI6ANL94NzvUSWXKZLGKDGSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 22:58:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uonpcsdof8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/menu.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LpAoRSm/cuMEZeABgt1TI6ANL94NzvUSWXKZLGKDGSI="
+        }
+      ]
+    },
+    {
+      "Route": "css/reservation.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\reservation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwY7CE1MSwZrftQzZ7EXlp75rAEZRjcZpg1feSM3zUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 19:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwY7CE1MSwZrftQzZ7EXlp75rAEZRjcZpg1feSM3zUU="
+        }
+      ]
+    },
+    {
+      "Route": "css/reservation.zk38q6xosq.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\reservation.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IwY7CE1MSwZrftQzZ7EXlp75rAEZRjcZpg1feSM3zUU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 19:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk38q6xosq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/reservation.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IwY7CE1MSwZrftQzZ7EXlp75rAEZRjcZpg1feSM3zUU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgvFayxRXP6Jd1BeyyMGL02iWy24ACH7ZR8Jp0hk5P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 22:58:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XgvFayxRXP6Jd1BeyyMGL02iWy24ACH7ZR8Jp0hk5P4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.mn5knpe5ja.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgvFayxRXP6Jd1BeyyMGL02iWy24ACH7ZR8Jp0hk5P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 22:58:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn5knpe5ja"
         },
         {
           "Name": "label",
@@ -1482,13 +2064,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u1KbprgayKfsIKnt9dWJPHsudSzN4FBEYnUm0iIXSok="
+          "Value": "sha256-XgvFayxRXP6Jd1BeyyMGL02iWy24ACH7ZR8Jp0hk5P4="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1533,7 +2115,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1569,8 +2151,8 @@
       ]
     },
     {
-      "Route": "images/halusky.2cqilxhtg6.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\halusky.jpg",
+      "Route": "images/cart.hskky72jji.svg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\cart.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1579,19 +2161,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "72583"
+          "Value": "465"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "\"0v7r69l27pJ39qXnOPwUHH+FLMLTVbzHIaqaciIaoE0=\""
+          "Value": "\"v5tHDcMf5ui0IBXG2MGlIITEoV2IdwVDbdgr/bgqi9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 22:00:04 GMT"
+          "Value": "Mon, 13 Jan 2025 22:19:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1601,21 +2183,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2cqilxhtg6"
+          "Value": "hskky72jji"
         },
         {
           "Name": "label",
-          "Value": "images/halusky.jpg"
+          "Value": "images/cart.svg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0v7r69l27pJ39qXnOPwUHH+FLMLTVbzHIaqaciIaoE0="
+          "Value": "sha256-v5tHDcMf5ui0IBXG2MGlIITEoV2IdwVDbdgr/bgqi9U="
         }
       ]
     },
     {
-      "Route": "images/halusky.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\halusky.jpg",
+      "Route": "images/cart.svg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\cart.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,19 +2206,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "72583"
+          "Value": "465"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "\"0v7r69l27pJ39qXnOPwUHH+FLMLTVbzHIaqaciIaoE0=\""
+          "Value": "\"v5tHDcMf5ui0IBXG2MGlIITEoV2IdwVDbdgr/bgqi9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 22:00:04 GMT"
+          "Value": "Mon, 13 Jan 2025 22:19:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1646,13 +2228,95 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0v7r69l27pJ39qXnOPwUHH+FLMLTVbzHIaqaciIaoE0="
+          "Value": "sha256-v5tHDcMf5ui0IBXG2MGlIITEoV2IdwVDbdgr/bgqi9U="
+        }
+      ]
+    },
+    {
+      "Route": "images/chef.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\chef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7A06hewtaWwTIqCvgrhguMdWVTnaLyTVXjBqgJmpKP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 22:54:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7A06hewtaWwTIqCvgrhguMdWVTnaLyTVXjBqgJmpKP8="
+        }
+      ]
+    },
+    {
+      "Route": "images/chef.kide2oflw0.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\chef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7A06hewtaWwTIqCvgrhguMdWVTnaLyTVXjBqgJmpKP8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 22:54:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kide2oflw0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chef.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7A06hewtaWwTIqCvgrhguMdWVTnaLyTVXjBqgJmpKP8="
         }
       ]
     },
     {
       "Route": "images/LogoUtb.422lp47tzl.png",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1697,7 +2361,7 @@
     },
     {
       "Route": "images/LogoUtb.png",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\LogoUtb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1733,8 +2397,90 @@
       ]
     },
     {
+      "Route": "images/reservation-bg.dva9z367ol.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\reservation-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15867894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t1Eez0d6JeCMjlrvdGzKKDcenbCihDGmQFFHL0bzzuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 20:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dva9z367ol"
+        },
+        {
+          "Name": "label",
+          "Value": "images/reservation-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t1Eez0d6JeCMjlrvdGzKKDcenbCihDGmQFFHL0bzzuA="
+        }
+      ]
+    },
+    {
+      "Route": "images/reservation-bg.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\reservation-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15867894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t1Eez0d6JeCMjlrvdGzKKDcenbCihDGmQFFHL0bzzuA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 20:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t1Eez0d6JeCMjlrvdGzKKDcenbCihDGmQFFHL0bzzuA="
+        }
+      ]
+    },
+    {
       "Route": "images/start-page.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1771,7 +2517,7 @@
     },
     {
       "Route": "images/start-page.nubqebbkcy.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\start-page.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1816,7 +2562,7 @@
     },
     {
       "Route": "images/test-bg-image.57xb1dry8b.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1861,7 +2607,7 @@
     },
     {
       "Route": "images/test-bg-image.jpg",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\images\\test-bg-image.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1897,8 +2643,746 @@
       ]
     },
     {
+      "Route": "img/food/55pipppu.3gv.5nbaq82p0u.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\55pipppu.3gv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nbaq82p0u"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/55pipppu.3gv.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/55pipppu.3gv.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\55pipppu.3gv.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:40:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/halusky.1y6cg7zv42.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\halusky.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSpCJAFcnsQ7AmlwK5sTbKyVmaRgs2y8mJuEtwOvY2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 23:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y6cg7zv42"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/halusky.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSpCJAFcnsQ7AmlwK5sTbKyVmaRgs2y8mJuEtwOvY2M="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/halusky.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\halusky.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSpCJAFcnsQ7AmlwK5sTbKyVmaRgs2y8mJuEtwOvY2M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 23:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSpCJAFcnsQ7AmlwK5sTbKyVmaRgs2y8mJuEtwOvY2M="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/pizza-marg.jpeg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\pizza-marg.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvZbwNB9pfg+9CNHlJuj/D7baY/pFLKDcCxpe42ffw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 23:00:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvZbwNB9pfg+9CNHlJuj/D7baY/pFLKDcCxpe42ffw0="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/pizza-marg.yrht7oreem.jpeg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\pizza-marg.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PvZbwNB9pfg+9CNHlJuj/D7baY/pFLKDcCxpe42ffw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 23:00:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yrht7oreem"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/pizza-marg.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PvZbwNB9pfg+9CNHlJuj/D7baY/pFLKDcCxpe42ffw0="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/s0egbmtc.bs2.5nbaq82p0u.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\s0egbmtc.bs2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:03:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nbaq82p0u"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/s0egbmtc.bs2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/s0egbmtc.bs2.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\s0egbmtc.bs2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:03:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cTOhuVjyJ8crnVN0razqqNmD+u8PN4DXUTy6R4PTyCA="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/spageti.hd947z5o91.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\spageti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvZNkcopVcMOoNHQqu8WA8pUBc1JxOHU/DN3bKZIn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 22:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hd947z5o91"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/spageti.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvZNkcopVcMOoNHQqu8WA8pUBc1JxOHU/DN3bKZIn0="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/spageti.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\spageti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvZNkcopVcMOoNHQqu8WA8pUBc1JxOHU/DN3bKZIn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 22:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvZNkcopVcMOoNHQqu8WA8pUBc1JxOHU/DN3bKZIn0="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/tzykqooj.yi4.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\tzykqooj.yi4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2LtJ12Lfa5RBz59tiSa9INKMD0xOGwMfx2O2AjKOkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 14:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2LtJ12Lfa5RBz59tiSa9INKMD0xOGwMfx2O2AjKOkw="
+        }
+      ]
+    },
+    {
+      "Route": "img/food/tzykqooj.yi4.vhwsbxo5ni.jpg",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\img\\food\\tzykqooj.yi4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2LtJ12Lfa5RBz59tiSa9INKMD0xOGwMfx2O2AjKOkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 14:28:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vhwsbxo5ni"
+        },
+        {
+          "Name": "label",
+          "Value": "img/food/tzykqooj.yi4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2LtJ12Lfa5RBz59tiSa9INKMD0xOGwMfx2O2AjKOkw="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialogs.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\dialogs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/NFsHuQY8tm2N82m7A6IP0h+/+/6cV/1dVlApi9TBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 15:31:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/NFsHuQY8tm2N82m7A6IP0h+/+/6cV/1dVlApi9TBU="
+        }
+      ]
+    },
+    {
+      "Route": "js/dialogs.np8hlmmwy8.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\dialogs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/NFsHuQY8tm2N82m7A6IP0h+/+/6cV/1dVlApi9TBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 15:31:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "np8hlmmwy8"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dialogs.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/NFsHuQY8tm2N82m7A6IP0h+/+/6cV/1dVlApi9TBU="
+        }
+      ]
+    },
+    {
+      "Route": "js/food.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\food.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wPk+djdkgO6VJpwWWoUQcDAvAhoYwg3VylMT6sa/N/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 21:13:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wPk+djdkgO6VJpwWWoUQcDAvAhoYwg3VylMT6sa/N/I="
+        }
+      ]
+    },
+    {
+      "Route": "js/food.o6t6ppz1c6.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\food.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wPk+djdkgO6VJpwWWoUQcDAvAhoYwg3VylMT6sa/N/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 21:13:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6t6ppz1c6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/food.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wPk+djdkgO6VJpwWWoUQcDAvAhoYwg3VylMT6sa/N/I="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.validation.decimalseparator.0x7r9oorlz.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\jquery.validation.decimalseparator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LFaLcWILm/KyFHGM5TmZ2S4r0knI4JZaWasqDvf+1y4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 17:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0x7r9oorlz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery.validation.decimalseparator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LFaLcWILm/KyFHGM5TmZ2S4r0knI4JZaWasqDvf+1y4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery.validation.decimalseparator.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\jquery.validation.decimalseparator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LFaLcWILm/KyFHGM5TmZ2S4r0knI4JZaWasqDvf+1y4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Dec 2024 17:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LFaLcWILm/KyFHGM5TmZ2S4r0knI4JZaWasqDvf+1y4="
+        }
+      ]
+    },
+    {
       "Route": "js/site.fr7q2aak1r.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1943,7 +3427,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1979,8 +3463,172 @@
       ]
     },
     {
+      "Route": "js/validations/FileContentValidation.h3h5fmp16d.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\FileContentValidation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTxv6NpUDXJRJ+/i9qUOVgTNiLx4gkr4IO1zM20jskE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 15:54:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3h5fmp16d"
+        },
+        {
+          "Name": "label",
+          "Value": "js/validations/FileContentValidation.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTxv6NpUDXJRJ+/i9qUOVgTNiLx4gkr4IO1zM20jskE="
+        }
+      ]
+    },
+    {
+      "Route": "js/validations/FileContentValidation.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\FileContentValidation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zTxv6NpUDXJRJ+/i9qUOVgTNiLx4gkr4IO1zM20jskE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 12 Jan 2025 15:54:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zTxv6NpUDXJRJ+/i9qUOVgTNiLx4gkr4IO1zM20jskE="
+        }
+      ]
+    },
+    {
+      "Route": "js/validations/ReservatioValidation.3r8b2a0bt1.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\ReservatioValidation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:26:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/validations/ReservatioValidation.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "js/validations/ReservatioValidation.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\js\\validations\\ReservatioValidation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 18:26:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2017,7 +3665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2062,7 +3710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2099,7 +3747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2144,7 +3792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2181,7 +3829,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2226,7 +3874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2263,7 +3911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2308,7 +3956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2345,7 +3993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2390,7 +4038,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2427,7 +4075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2472,7 +4120,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2509,7 +4157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2554,7 +4202,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +4239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2636,7 +4284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2681,7 +4329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2718,7 +4366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2755,7 +4403,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2800,7 +4448,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2837,7 +4485,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2882,7 +4530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2919,7 +4567,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2964,7 +4612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3001,7 +4649,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3046,7 +4694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3083,7 +4731,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3120,7 +4768,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3157,7 +4805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3202,7 +4850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3247,7 +4895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3292,7 +4940,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3337,7 +4985,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3374,7 +5022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3419,7 +5067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3456,7 +5104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3493,7 +5141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3530,7 +5178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3575,7 +5223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3620,7 +5268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3665,7 +5313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3702,7 +5350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3747,7 +5395,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3784,7 +5432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3821,7 +5469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3858,7 +5506,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3903,7 +5551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3948,7 +5596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3985,7 +5633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4030,7 +5678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4067,7 +5715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4112,7 +5760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4149,7 +5797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4186,7 +5834,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4231,7 +5879,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4276,7 +5924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4313,7 +5961,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4358,7 +6006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4395,7 +6043,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4432,7 +6080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4477,7 +6125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4514,7 +6162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4559,7 +6207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4604,7 +6252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4641,7 +6289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4686,7 +6334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4723,7 +6371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4768,7 +6416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4813,7 +6461,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4850,7 +6498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4895,7 +6543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4932,7 +6580,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4969,7 +6617,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5014,7 +6662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5051,7 +6699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5096,7 +6744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5133,7 +6781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5170,7 +6818,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5215,7 +6863,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5260,7 +6908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5297,7 +6945,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5342,7 +6990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5379,7 +7027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5416,7 +7064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5453,7 +7101,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5498,7 +7146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5543,7 +7191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5588,7 +7236,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5625,7 +7273,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.z6qzljqjd0",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5670,7 +7318,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5715,7 +7363,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5752,7 +7400,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5797,7 +7445,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5842,7 +7490,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5879,7 +7527,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5916,7 +7564,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.jfsiqqwiad.txt",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5961,7 +7609,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5998,7 +7646,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6043,7 +7691,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6080,7 +7728,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6125,7 +7773,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6162,7 +7810,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6199,7 +7847,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6244,7 +7892,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6281,7 +7929,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6326,7 +7974,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6363,7 +8011,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6408,7 +8056,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +8101,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6490,7 +8138,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +8183,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6572,7 +8220,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.l3n5xuwxn8.txt",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6617,7 +8265,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6654,7 +8302,7 @@
     },
     {
       "Route": "UTB.RestauraciaWeb.bundle.scp.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6691,7 +8339,7 @@
     },
     {
       "Route": "UTB.RestauraciaWeb.i4q30j881z.bundle.scp.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UTB.RestauraciaWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6736,7 +8384,7 @@
     },
     {
       "Route": "UTB.RestauraciaWeb.i4q30j881z.styles.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6781,7 +8429,7 @@
     },
     {
       "Route": "UTB.RestauraciaWeb.styles.css",
-      "AssetFile": "C:\\UTB.Restauracia\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
+      "AssetFile": "C:\\semestralka_restaurace-master\\UTB.RestauraciaWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UTB.RestauraciaWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
